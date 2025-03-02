@@ -1,0 +1,49 @@
+{
+  "groups": [
+    {
+      "name": "Default",
+      "pos": 0,
+      "is_selected": true
+    },
+    {
+      "name": "Work",
+      "pos": 1,
+      "is_selected": false
+    },
+    {
+      "name": "Personal",
+      "pos": 2,
+      "is_selected": false
+    }
+  ],
+  "dials": [
+    {
+      "url": "github.com",
+      "title": "GitHub",
+      "pos": 1,
+      "thumbSourceType": "default",
+      "thumbIndex": 1,
+      "clickCount": 0,
+      "group_name": "Default"
+    },
+    {
+      "url": "facebook.com",
+      "title": "Facebook",
+      "pos": 2,
+      "thumbSourceType": "default",
+      "thumbIndex": 2,
+      "clickCount": 0,
+      "group_name": "Personal"
+    },
+    {
+      "url": "x.com",
+      "title": "Twitter",
+      "pos": 3,
+      "thumbSourceType": "default",
+      "thumbIndex": 3,
+      "clickCount": 0,
+      "group_name": "Personal"
+    }
+  ],
+  "lastSynced": "2025-03-02T06:28:41.517Z"
+}
